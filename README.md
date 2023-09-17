@@ -2,4 +2,4 @@
 
 - Just a dummy dark theme with html, css, javascript
 
-![image](pic.png)
+![image](pic1.png)
